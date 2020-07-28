@@ -9,7 +9,6 @@ export function getCombinationList(data) {
 
 /**
  * 拼团产品详情
- *
  * @param {*} id
  */
 export function getCombinationDetail(id) {
